@@ -14,7 +14,7 @@
 
 **DRN Gaming** is an open-source Linux gaming environment and launcher designed to bring different gaming-related tools and experiences together in one desktop application.
 
-The project aims to provide a unified interface for managing game libraries, launching games, accessing retro gaming tools, browsing media, and interacting with useful system utilities.
+The project aims to make gaming on Linux easier by unifying game library management, game launching, access to retro gaming tools, media browsing, and the use of useful system utilities.
 
 DRN Gaming is part of the **DRN project ecosystem**.
 
@@ -196,7 +196,7 @@ See the [LICENSE](LICENSE) file for details.
 
 **DRN Gaming** یک محیط و لانچر متن‌باز برای سیستم‌عامل لینوکس است که با هدف یکپارچه‌سازی ابزارها و تجربه‌های مختلف مرتبط با بازی در یک برنامهٔ دسکتاپ توسعه داده می‌شود.
 
-هدف پروژه فراهم‌کردن یک رابط یکپارچه برای مدیریت کتابخانهٔ بازی‌ها، اجرای بازی‌ها، دسترسی به ابزارهای بازی‌های رترو، مرور فایل‌های رسانه‌ای و استفاده از ابزارهای کاربردی سیستم است.
+هدف پروژه آسان‌سازی تجربهٔ گیمینگ در لینوکس و یکپارچه‌سازی مدیریت کتابخانهٔ بازی‌ها، اجرای بازی‌ها، دسترسی به ابزارهای بازی‌های رترو، مرور فایل‌های رسانه‌ای و استفاده از ابزارهای کاربردی سیستم است.
 
 DRN Gaming بخشی از اکوسیستم پروژهٔ **DRN** محسوب می‌شود.
 
