@@ -1,0 +1,14 @@
+{
+    "applications": {
+        "steam": "",
+        "lutris": "",
+        "heroic": "",
+        "retroarch": ""
+    },
+    "steam_installation_directory": "",
+    "steam_library_directories": [],
+    "rom_directories": [],
+    "game_library_directories": [],
+    "media_directories": [],
+    "retroarch_core_directory": ""
+}

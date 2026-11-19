@@ -1,0 +1,92 @@
+# =====================================
+# Python
+# =====================================
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.tox/
+.coverage
+htmlcov/
+
+# =====================================
+# Environment variables and secrets
+# =====================================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+secrets.json
+
+# =====================================
+# Local configuration
+# =====================================
+config/local/
+config/*.local
+config/*.local.*
+config/*-local.json
+
+# =====================================
+# Personal libraries and media
+# =====================================
+Media/
+media/
+Archive.zip
+
+# =====================================
+# Logs and runtime data
+# =====================================
+*.log
+logs/
+*.pid
+*.lock
+
+# =====================================
+# Build artifacts
+# =====================================
+build/
+dist/
+*.spec~
+*.egg-info/
+
+# =====================================
+# Editors and IDEs
+# =====================================
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# =====================================
+# Operating system files
+# =====================================
+.DS_Store
+Thumbs.db
+desktop.ini
+.directory
+.Trash-*/
+
+# =====================================
+# Temporary files
+# =====================================
+*.tmp
+*.bak
+*.old
+*.orig
+
+# Ignore ROM files but keep the directory in Git
+ROMs/*
+!ROMs/.gitkeep
